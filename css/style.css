@@ -1,0 +1,65 @@
+body {
+  background-image: url("../images/fondsite.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.monimage {
+  margin-top: 50px;
+  margin-left: 200px;
+  width: 250px;
+  height: 250px;
+  content: center;
+}
+.maLine {
+  background-color: rgba(226, 225, 217, 0.8);
+  margin-top: 10px;
+}
+
+.montext {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  font: 1.4em "Fira Sans", sans-serif;
+}
+.text {
+  font: 1em "Fira Sans", sans-serif;
+}
+.montitre {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+}
+.techno {
+  width: 90px;
+  height: 90px;
+}
+.technos {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.lien {
+  margin-left: 80px;
+}
+.monbutton {
+  margin-top: 15px;
+  margin-left: 270px;
+}
+.foooter {
+  background-color: rgba(226, 225, 217, 0.4);
+  position: absolute;
+
+  width: 100%;
+  bottom: 0%;
+  text-align: center;
+}
+.cv {
+  margin-top: 10px;
+  margin-left: 400px;
+
+  width: 630px;
+  height: 850px;
+}
+.btnretour {
+  margin-top: 400px;
+  margin-left: 40px;
+}
